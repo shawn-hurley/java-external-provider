@@ -1,4 +1,4 @@
-module github.com/konveyor/java-external-provider
+module github.com/shawn-hurley/java-external-provider
 
 go 1.19
 
